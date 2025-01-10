@@ -76,7 +76,7 @@
     "husky": "^7.0.4",
     "jest": "^27.5.1",
     "jest-environment-jsdom": "^27.5.1",
-    "katex": "^0.15.2",
+    "katex": "^0.16.19",
     "less": "^4.1.1",
     "less-loader": "^8.0.0",
     "lint-staged": "^12.3.4",
