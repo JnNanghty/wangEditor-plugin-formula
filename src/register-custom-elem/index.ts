@@ -7,6 +7,7 @@
 import katexStyleContent from '!!raw-loader!katex/dist/katex.css'
 import katex from 'katex'
 import './native-shim'
+import 'katex/contrib/mhchem/mhchem'
 
 class WangEditorFormulaCard extends HTMLElement {
   private span: HTMLElement
